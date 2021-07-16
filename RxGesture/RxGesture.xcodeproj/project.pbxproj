@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		275CDE1026A1B9BF006B406F /* RxTest.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 275CDE0B26A1B9BF006B406F /* RxTest.xcframework */; };
-		275CDE1226A1B9BF006B406F /* RxBlocking.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 275CDE0C26A1B9BF006B406F /* RxBlocking.xcframework */; };
-		275CDE1426A1B9BF006B406F /* RxRelay.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 275CDE0D26A1B9BF006B406F /* RxRelay.xcframework */; };
-		275CDE1626A1B9BF006B406F /* RxCocoa.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 275CDE0E26A1B9BF006B406F /* RxCocoa.xcframework */; };
-		275CDE1826A1B9BF006B406F /* RxSwift.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 275CDE0F26A1B9BF006B406F /* RxSwift.xcframework */; };
+		275CDE1026A1B9BF006B406F /* RxTest.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 275CDE0B26A1B9BF006B406F /* RxTest.xcframework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		275CDE1226A1B9BF006B406F /* RxBlocking.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 275CDE0C26A1B9BF006B406F /* RxBlocking.xcframework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		275CDE1426A1B9BF006B406F /* RxRelay.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 275CDE0D26A1B9BF006B406F /* RxRelay.xcframework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		275CDE1626A1B9BF006B406F /* RxCocoa.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 275CDE0E26A1B9BF006B406F /* RxCocoa.xcframework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		275CDE1826A1B9BF006B406F /* RxSwift.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 275CDE0F26A1B9BF006B406F /* RxSwift.xcframework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		874DD3DD1FAD067200A61D4F /* GestureRecognizer+RxGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 874DD3DC1FAD067200A61D4F /* GestureRecognizer+RxGesture.swift */; };
 		874DD3E11FAD068500A61D4F /* ForceTouchGestureRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 874DD3DF1FAD068500A61D4F /* ForceTouchGestureRecognizer.swift */; };
 		874DD3E21FAD068500A61D4F /* TouchDownGestureRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 874DD3E01FAD068500A61D4F /* TouchDownGestureRecognizer.swift */; };
